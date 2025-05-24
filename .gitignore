@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+pokeflix-old/
+tmp_preprocessing/
+test_downloads/
