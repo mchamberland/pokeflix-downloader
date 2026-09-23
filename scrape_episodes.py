@@ -6,12 +6,15 @@ import re
 
 # Dictionary mapping seasons to their scraping URLs
 SCRAPE_URLS = {
-    "25": "https://www.pokeflix.tv/browse/pokemon-ultimate-journeys",
-    "24": "https://www.pokeflix.tv/browse/pokemon-master-journeys", 
-    "22": "https://www.pokeflix.tv/browse/pokemon-sun-and-moon-ultra-legends",
-    "21": "https://www.pokeflix.tv/browse/pokemon-sun-and-moon-ultra-adventures",
-    "18": "https://www.pokeflix.tv/browse/pokemon-xy-kalos-quest",
-    "15": "https://www.pokeflix.tv/browse/pokemon-bw-rival-destinies",
+    "28": "https://www.pokeflix.tv/browse/horizons-rising-hope",
+    # "27": "https://www.pokeflix.tv/browse/horizons-search-for-laqua",
+    # "26": "https://www.pokeflix.tv/browse/pokemon-horizons",
+    # "25": "https://www.pokeflix.tv/browse/pokemon-ultimate-journeys",
+    # "24": "https://www.pokeflix.tv/browse/pokemon-master-journeys",
+    # "22": "https://www.pokeflix.tv/browse/pokemon-sun-and-moon-ultra-legends",
+    # "21": "https://www.pokeflix.tv/browse/pokemon-sun-and-moon-ultra-adventures",
+    # "18": "https://www.pokeflix.tv/browse/pokemon-xy-kalos-quest",
+    # "15": "https://www.pokeflix.tv/browse/pokemon-bw-rival-destinies",
     # Add more as needed
 }
 

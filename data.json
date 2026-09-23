@@ -1,6 +1,633 @@
 {
   "pokemon_generations": [
     {
+      "generation": 9,
+      "region": "Paldea Region",
+      "series": [
+        {
+          "title": "Horizons",
+          "season": 26,
+          "episodes": [
+            {
+              "episode": 1,
+              "thumbnail": "/static/thumbnails/26-horizons/1.jpg",
+              "title": "01 - The Pendant That Starts It All: Part One",
+              "video_url": "/v/26-the-pendant-that-starts-it-all-part-one"
+            },
+            {
+              "episode": 2,
+              "thumbnail": "/static/thumbnails/26-horizons/2.jpg",
+              "title": "02 - The Pendant That Starts It All: Part Two",
+              "video_url": "/v/26-the-pendant-that-starts-it-all-part-two"
+            },
+            {
+              "episode": 3,
+              "thumbnail": "/static/thumbnails/26-horizons/3.jpg",
+              "title": "03 - For Sure! 'Cause Sprigatito's with Me!",
+              "video_url": "/v/26-for-sure-cause-sprigatitos-with-me"
+            },
+            {
+              "episode": 4,
+              "thumbnail": "/static/thumbnails/26-horizons/4.jpg",
+              "title": "04 - The Treasure After the Storm!",
+              "video_url": "/v/26-the-treasure-after-the-storm"
+            },
+            {
+              "episode": 5,
+              "thumbnail": "/static/thumbnails/26-horizons/5.jpg",
+              "title": "05 - Found You, Fuecoco!",
+              "video_url": "/v/26-found-you-fuecoco"
+            },
+            {
+              "episode": 6,
+              "thumbnail": "/static/thumbnails/26-horizons/6.jpg",
+              "title": "06 - The Ancient Poke Ball",
+              "video_url": "/v/26-the-ancient-poke-ball"
+            },
+            {
+              "episode": 7,
+              "thumbnail": "/static/thumbnails/26-horizons/7.jpg",
+              "title": "07 - Special Training with Cap!",
+              "video_url": "/v/26-special-training-with-cap"
+            },
+            {
+              "episode": 8,
+              "thumbnail": "/static/thumbnails/26-horizons/8.jpg",
+              "title": "08 - The Door That Never Opens!",
+              "video_url": "/v/26-the-door-that-never-opens"
+            },
+            {
+              "episode": 9,
+              "thumbnail": "/static/thumbnails/26-horizons/9.jpg",
+              "title": "09 - Welcome to Paldea!",
+              "video_url": "/v/26-welcome-to-paldea"
+            },
+            {
+              "episode": 10,
+              "thumbnail": "/static/thumbnails/26-horizons/10.jpg",
+              "title": "10 - Nemona and Brassius and...",
+              "video_url": "/v/26-nemona-and-brassius-and"
+            },
+            {
+              "episode": 11,
+              "thumbnail": "/static/thumbnails/26-horizons/11.jpg",
+              "title": "11 - Arboliva's Forest",
+              "video_url": "/v/26-arbolivas-forest"
+            },
+            {
+              "episode": 12,
+              "thumbnail": "/static/thumbnails/26-horizons/12.jpg",
+              "title": "12 - The Future I Choose!",
+              "video_url": "/v/26-the-future-i-choose"
+            },
+            {
+              "episode": 13,
+              "thumbnail": "/static/thumbnails/26-horizons/13.jpg",
+              "title": "13 - An Unexpected Picnic!",
+              "video_url": "/v/26-an-unexpected-picnic"
+            },
+            {
+              "episode": 14,
+              "thumbnail": "/static/thumbnails/26-horizons/14.jpg",
+              "title": "14 - Fly! Wattrel!",
+              "video_url": "/v/26-fly-wattrel"
+            },
+            {
+              "episode": 15,
+              "thumbnail": "/static/thumbnails/26-horizons/15.jpg",
+              "title": "15 - Someone We Can't See! Whosawhatsit?!",
+              "video_url": "/v/26-someone-we-cant-see-whosawhatsit"
+            },
+            {
+              "episode": 16,
+              "thumbnail": "/static/thumbnails/26-horizons/16.jpg",
+              "title": "16 - Quaxly, We Can Do It!",
+              "video_url": "/v/26-quaxly-we-can-do-it"
+            },
+            {
+              "episode": 17,
+              "thumbnail": "/static/thumbnails/26-horizons/17.jpg",
+              "title": "17 - Special Training Time!",
+              "video_url": "/v/26-special-training-time"
+            },
+            {
+              "episode": 18,
+              "thumbnail": "/static/thumbnails/26-horizons/18.jpg",
+              "title": "18 - Flying Pikachu, Rising Higher and Higher!",
+              "video_url": "/v/26-flying-pikachu-rising-higher-and-higher"
+            },
+            {
+              "episode": 19,
+              "thumbnail": "/static/thumbnails/26-horizons/19.jpg",
+              "title": "19 - The Bittersweet Truth",
+              "video_url": "/v/26-the-bittersweet-truth"
+            },
+            {
+              "episode": 20,
+              "thumbnail": "/static/thumbnails/26-horizons/20.jpg",
+              "title": "20 - Kabu's Battle Training!",
+              "video_url": "/v/26-kabus-battle-training"
+            },
+            {
+              "episode": 21,
+              "thumbnail": "/static/thumbnails/26-horizons/21.jpg",
+              "title": "21 - The Lonely Hatenna",
+              "video_url": "/v/26-the-lonely-hatenna"
+            },
+            {
+              "episode": 22,
+              "thumbnail": "/static/thumbnails/26-horizons/22.jpg",
+              "title": "22 - Charge! Galar Mine!",
+              "video_url": "/v/26-charge-galar-mine"
+            },
+            {
+              "episode": 23,
+              "thumbnail": "/static/thumbnails/26-horizons/23.jpg",
+              "title": "23 - Fiery Galarian Moltres",
+              "video_url": "/v/26-fiery-galarian-moltres"
+            },
+            {
+              "episode": 24,
+              "thumbnail": "/static/thumbnails/26-horizons/24.jpg",
+              "title": "24 - Reunion at the Ancient Castle",
+              "video_url": "/v/26-reunion-at-the-ancient-castle"
+            },
+            {
+              "episode": 25,
+              "thumbnail": "/static/thumbnails/26-horizons/25.jpg",
+              "title": "25 - Rivals in the Dark of Night",
+              "video_url": "/v/26-rivals-in-the-dark-of-night"
+            },
+            {
+              "episode": 26,
+              "thumbnail": "/static/thumbnails/26-horizons/26.jpg",
+              "title": "26 - Terapagos's Adventure!",
+              "video_url": "/v/26-terapagos-adventure"
+            },
+            {
+              "episode": 27,
+              "thumbnail": "/static/thumbnails/26-horizons/27.jpg",
+              "title": "27 - As Long as I'm with My Friends",
+              "video_url": "/v/26-as-long-as-im-with-my-friends"
+            },
+            {
+              "episode": 28,
+              "thumbnail": "/static/thumbnails/26-horizons/28.jpg",
+              "title": "28 - The Stolen Treasure",
+              "video_url": "/v/26-the-stolen-treasure"
+            },
+            {
+              "episode": 29,
+              "thumbnail": "/static/thumbnails/26-horizons/29.jpg",
+              "title": "29 - Orla and the Pok\u00e9 Ball Smith",
+              "video_url": "/v/26-orla-and-the-poke-ball-smith"
+            },
+            {
+              "episode": 30,
+              "thumbnail": "/static/thumbnails/26-horizons/30.jpg",
+              "title": "30 - Slip and Crash! A Mystery Pok\u00e9mon?!",
+              "video_url": "/v/26-slip-and-crash-a-mystery-pokemon"
+            },
+            {
+              "episode": 31,
+              "thumbnail": "/static/thumbnails/26-horizons/31.jpg",
+              "title": "31 - Song Within the Mist",
+              "video_url": "/v/26-song-within-the-mist"
+            },
+            {
+              "episode": 32,
+              "thumbnail": "/static/thumbnails/26-horizons/32.jpg",
+              "title": "32 - Lapras's Feelings for its Friends",
+              "video_url": "/v/26-lapras-feelings-for-its-friends"
+            },
+            {
+              "episode": 33,
+              "thumbnail": "/static/thumbnails/26-horizons/33.jpg",
+              "title": "33 - Roar of the Black Rayquaza",
+              "video_url": "/v/26-roar-of-the-black-rayquaza"
+            },
+            {
+              "episode": 34,
+              "thumbnail": "/static/thumbnails/26-horizons/34.jpg",
+              "title": "34 - Respective Departures",
+              "video_url": "/v/26-respective-departures"
+            },
+            {
+              "episode": 35,
+              "thumbnail": "/static/thumbnails/26-horizons/35.jpg",
+              "title": "35 - The Wild Pair, Friede and Cap!",
+              "video_url": "/v/26-the-wild-pair-friede-and-cap"
+            },
+            {
+              "episode": 36,
+              "thumbnail": "/static/thumbnails/26-horizons/36.jpg",
+              "title": "36 - Mission: Find Oinkologne's Partner!",
+              "video_url": "/v/26-mission-find-oinkolognes-partner"
+            },
+            {
+              "episode": 37,
+              "thumbnail": "/static/thumbnails/26-horizons/37.jpg",
+              "title": "37 - Fuecoco Becomes a Crook?!",
+              "video_url": "/v/26-fuecoco-becomes-a-crook"
+            },
+            {
+              "episode": 38,
+              "thumbnail": "/static/thumbnails/26-horizons/38.jpg",
+              "title": "38 - The SOS is from Tandemaus?",
+              "video_url": "/v/26-the-sos-is-from-tandemaus"
+            },
+            {
+              "episode": 39,
+              "thumbnail": "/static/thumbnails/26-horizons/39.jpg",
+              "title": "39 - Tinkatink's Ideal Hammer",
+              "video_url": "/v/26-tinkatinks-ideal-hammer"
+            },
+            {
+              "episode": 40,
+              "thumbnail": "/static/thumbnails/26-horizons/40.jpg",
+              "title": "40 - Farewell, Sprigatito?",
+              "video_url": "/v/26-farewell-sprigatito"
+            },
+            {
+              "episode": 41,
+              "thumbnail": "/static/thumbnails/26-horizons/41.jpg",
+              "title": "41 - A Wild Mom Appears!",
+              "video_url": "/v/26-a-wild-mom-appears"
+            },
+            {
+              "episode": 42,
+              "thumbnail": "/static/thumbnails/26-horizons/42.jpg",
+              "title": "42 - Transform! Hero of the Seas, Palafin",
+              "video_url": "/v/26-transform-hero-of-the-seas-palafin"
+            },
+            {
+              "episode": 43,
+              "thumbnail": "/static/thumbnails/26-horizons/43.jpg",
+              "title": "43 - A Challenge from the Explorers",
+              "video_url": "/v/26-a-challenge-from-the-explorers"
+            },
+            {
+              "episode": 44,
+              "thumbnail": "/static/thumbnails/26-horizons/44.jpg",
+              "title": "44 - The Plan to Capture Rayquaza",
+              "video_url": "/v/26-the-plan-to-capture-rayquaza"
+            },
+            {
+              "episode": 45,
+              "thumbnail": "/static/thumbnails/26-horizons/45.jpg",
+              "title": "45 - From So Far Away",
+              "video_url": "/v/26-from-so-far-away"
+            }
+          ],
+          "pkflx_name": "26-horizons"
+        },
+        {
+          "title": "Horizons: The Search for Laqua",
+          "season": 27,
+          "episodes": [
+            {
+              "episode": 1,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/1.jpg",
+              "title": "01 - Welcome to Naranja Academy!",
+              "video_url": "/v/27-welcome-to-naranja-academy"
+            },
+            {
+              "episode": 2,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/2.jpg",
+              "title": "02 - Put Your Heart Into It!",
+              "video_url": "/v/27-put-your-heart-into-it"
+            },
+            {
+              "episode": 3,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/3.jpg",
+              "title": "03 - Sparkle! The Glow of Flame and Art!",
+              "video_url": "/v/27-sparkle-the-glow-of-flame-and-art"
+            },
+            {
+              "episode": 4,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/4.jpg",
+              "title": "04 - Dot and Nidothing",
+              "video_url": "/v/27-dot-and-nidothing"
+            },
+            {
+              "episode": 5,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/5.jpg",
+              "title": "05 - Trending Terastallization! Dance, Dance, Quaxly!",
+              "video_url": "/v/27-trending-terastallization-dance-dance-quaxly"
+            },
+            {
+              "episode": 6,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/6.jpg",
+              "title": "06 - The Flower Tower",
+              "video_url": "/v/27-the-flower-tower"
+            },
+            {
+              "episode": 7,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/7.jpg",
+              "title": "07 - Wattrel's High Wind Warning!",
+              "video_url": "/v/27-wattrels-high-wind-warning"
+            },
+            {
+              "episode": 8,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/8.jpg",
+              "title": "08 - Hatenna and the Otherworldly",
+              "video_url": "/v/27-hatenna-and-the-otherworldly"
+            },
+            {
+              "episode": 9,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/9.jpg",
+              "title": "09 - The Treasure of Eternity",
+              "video_url": "/v/27-the-treasure-of-eternity"
+            },
+            {
+              "episode": 10,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/10.jpg",
+              "title": "10 - Showdown! The Paldea Elite Four",
+              "video_url": "/v/27-showdown-the-paldea-elite-four"
+            },
+            {
+              "episode": 11,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/11.jpg",
+              "title": "11 - Liko vs. Rika! Towards the Battle's End",
+              "video_url": "/v/27-liko-vs-rika-towards-the-battles-end"
+            },
+            {
+              "episode": 12,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/12.jpg",
+              "title": "12 - The Terapagos I Don't Know",
+              "video_url": "/v/27-the-terapagos-i-dont-know"
+            },
+            {
+              "episode": 13,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/13.jpg",
+              "title": "13 - Food Fit for a Kingambit!",
+              "video_url": "/v/27-food-fit-for-a-kingambit"
+            },
+            {
+              "episode": 14,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/14.jpg",
+              "title": "14 - Dance, Quaxly! The Blue Medali Step!",
+              "video_url": "/v/27-dance-quaxly-the-blue-medali-step"
+            },
+            {
+              "episode": 15,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/15.jpg",
+              "title": "15 - Roy and Fuecoco's First Snow!",
+              "video_url": "/v/27-roy-and-fuecocos-first-snow"
+            },
+            {
+              "episode": 16,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/16.jpg",
+              "title": "16 - Resonating Spirits in a Challenge to Ryme!",
+              "video_url": "/v/27-resonating-spirits-in-a-challenge-to-ryme"
+            },
+            {
+              "episode": 17,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/17.jpg",
+              "title": "17 - A New Song for Fuecoco",
+              "video_url": "/v/27-a-new-song-for-fuecoco"
+            },
+            {
+              "episode": 18,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/18.jpg",
+              "title": "18 - Ice Battle! Cold-Eyed Grusha",
+              "video_url": "/v/27-ice-battle-cold-eyed-grusha"
+            },
+            {
+              "episode": 19,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/19.jpg",
+              "title": "19 - The Approaching Shadow!",
+              "video_url": "/v/27-the-approaching-shadow"
+            },
+            {
+              "episode": 20,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/20.jpg",
+              "title": "20 - Liko and Amethio",
+              "video_url": "/v/27-liko-and-amethio"
+            },
+            {
+              "episode": 21,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/21.jpg",
+              "title": "21 - Infiltrating the System! Naranja Academy in Danger!",
+              "video_url": "/v/27-infiltrating-the-system-naranja-academy-in-danger"
+            },
+            {
+              "episode": 22,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/22.jpg",
+              "title": "22 - Shine on, Terastallization! Liko vs. Roy!",
+              "video_url": "/v/27-shine-on-terastallization-liko-vs-roy"
+            },
+            {
+              "episode": 23,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/23.jpg",
+              "title": "23 - Into a New Sky! The Brave Olivine!",
+              "video_url": "/v/27-into-a-new-sky-the-brave-olivine"
+            },
+            {
+              "episode": 24,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/24.jpg",
+              "title": "24 - Roy is Crocalor, and Crocalor is Roy!",
+              "video_url": "/v/27-roy-is-crocalor-and-crocalor-is-roy"
+            },
+            {
+              "episode": 25,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/25.jpg",
+              "title": "25 - Tinkatink's Hammer Wasn't Made in a Day",
+              "video_url": "/v/27-tinkatinks-hammer-wasnt-made-in-a-day"
+            },
+            {
+              "episode": 26,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/26.jpg",
+              "title": "26 - Encounters at the Crystal Pool",
+              "video_url": "/v/27-encounters-at-the-crystal-pool"
+            },
+            {
+              "episode": 27,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/27.jpg",
+              "title": "27 - The Search for Kleavor!",
+              "video_url": "/v/27-the-search-for-kleavor"
+            },
+            {
+              "episode": 28,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/28.jpg",
+              "title": "28 - Kleavor the Solitary Warrior",
+              "video_url": "/v/27-kleavor-the-solitary-warrior"
+            },
+            {
+              "episode": 29,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/29.jpg",
+              "title": "29 - The Three Explorers",
+              "video_url": "/v/27-the-three-explorers"
+            },
+            {
+              "episode": 30,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/30.jpg",
+              "title": "30 - The Wonders of the World!",
+              "video_url": "/v/27-the-wonders-of-the-world"
+            },
+            {
+              "episode": 31,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/31.jpg",
+              "title": "31 - Wynaut?! Wy-Yes!",
+              "video_url": "/v/27-wynaut-wy-yes"
+            },
+            {
+              "episode": 32,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/32.jpg",
+              "title": "32 - Ludlow's Homecoming!",
+              "video_url": "/v/27-ludlows-homecoming"
+            },
+            {
+              "episode": 33,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/33.jpg",
+              "title": "33 - Entei's Fierce Battle Cry!",
+              "video_url": "/v/27-enteis-fierce-battle-cry"
+            },
+            {
+              "episode": 34,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/34.jpg",
+              "title": "34 - Over the Top!",
+              "video_url": "/v/27-over-the-top"
+            },
+            {
+              "episode": 35,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/35.jpg",
+              "title": "35 - Total-lie Awesome Pok\u00e9mon in Area Zero?!",
+              "video_url": "/v/27-total-lie-awesome-pokemon-in-area-zero"
+            },
+            {
+              "episode": 36,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/36.jpg",
+              "title": "36 - The Pillar of Fire",
+              "video_url": "/v/27-the-pillar-of-fire"
+            },
+            {
+              "episode": 37,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/37.jpg",
+              "title": "37 - Beyond the Shining Rainbow",
+              "video_url": "/v/27-beyond-the-shining-rainbow"
+            },
+            {
+              "episode": 38,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/38.jpg",
+              "title": "38 - The Truth Revealed!",
+              "video_url": "/v/27-the-truth-revealed"
+            },
+            {
+              "episode": 39,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/39.jpg",
+              "title": "39 - Where the Land Meets the Sky",
+              "video_url": "/v/27-where-the-land-meets-the-sky"
+            },
+            {
+              "episode": 40,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/40.jpg",
+              "title": "40 - The Pok\u00e9mon Paradise of Laqua!",
+              "video_url": "/v/27-the-pokemon-paradise-of-laqua"
+            },
+            {
+              "episode": 41,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/41.jpg",
+              "title": "41 - The Rising Volt Tacklers vs. The Explorers!",
+              "video_url": "/v/27-the-rising-volt-tacklers-vs-the-explorers"
+            },
+            {
+              "episode": 42,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/42.jpg",
+              "title": "42 - Guided by the Black Rayquaza!",
+              "video_url": "/v/27-guided-by-the-black-rayquaza"
+            },
+            {
+              "episode": 43,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/43.jpg",
+              "title": "43 - The Earthshaking White Zygarde",
+              "video_url": "/v/27-the-earthshaking-white-zygarde"
+            },
+            {
+              "episode": 44,
+              "thumbnail": "/static/thumbnails/27-horizons-search-for-laqua/44.jpg",
+              "title": "44 - Where the Adventure Leads",
+              "video_url": "/v/27-where-the-adventure-leads"
+            }
+          ],
+          "pkflx_name": "27-horizons-search-for-laqua"
+        },
+        {
+          "title": "Horizons: Rising Hope",
+          "episodes": [
+            {
+              "episode": 1,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/1.jpg",
+              "title": "01 - Eyes to the Skies Once Again, Part 1",
+              "video_url": "/v/28-eyes-to-the-skies-once-again-part-1"
+            },
+            {
+              "episode": 2,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/2.jpg",
+              "title": "02 - Eyes to the Skies Once Again, Part 2",
+              "video_url": "/v/28-eyes-to-the-skies-once-again-part-2"
+            },
+            {
+              "episode": 3,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/3.jpg",
+              "title": "03 - Following Traces of Laquium",
+              "video_url": "/v/28-following-traces-of-laquium"
+            },
+            {
+              "episode": 4,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/4.jpg",
+              "title": "04 - Clash of the Nidothing Fans",
+              "video_url": "/v/28-clash-of-the-nidothing-fans"
+            },
+            {
+              "episode": 5,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/5.jpg",
+              "title": "05 - The Pok\u00e9mon Center Lady",
+              "video_url": "/v/28-the-pokemon-center-lady"
+            },
+            {
+              "episode": 6,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/6.jpg",
+              "title": "06 - The Strong Sphere",
+              "video_url": "/v/28-the-strong-sphere"
+            },
+            {
+              "episode": 7,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/7.jpg",
+              "title": "07 - Crash! Team Dragon Rampage!",
+              "video_url": "/v/28-crash-team-dragon-rampage"
+            },
+            {
+              "episode": 8,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/8.jpg",
+              "title": "08 - The Prankster",
+              "video_url": "/v/28-the-prankster"
+            },
+            {
+              "episode": 9,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/9.jpg",
+              "title": "09 - Reunion in Cortondo",
+              "video_url": "/v/28-reunion-in-cortondo"
+            },
+            {
+              "episode": 10,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/10.jpg",
+              "title": "10 - Orla, Grounded",
+              "video_url": "/v/28-orla-grounded"
+            },
+            {
+              "episode": 11,
+              "thumbnail": "/static/thumbnails/28-horizons-rising-hope/11.jpg",
+              "title": "11 - We Are the Rising Volt Tacklers!",
+              "video_url": "/v/28-we-are-the-rising-volt-tacklers"
+            }
+          ],
+          "season": 28,
+          "pkflx_name": "28-horizons-rising-hope"
+        }
+      ]
+    },
+    {
       "generation": 8,
       "region": "Galar Region",
       "series": [

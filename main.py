@@ -20,7 +20,7 @@ import re
 
 website = "https://v1.pkflx.com"  # base website
 downloader = "yt-dlp"
-folder = "D:\\pokemon\\"
+folder = "/Users/marc/Movies/Pokémon"
 
 def load_data():
     """Load the data from data.json"""
@@ -53,7 +53,7 @@ def download_series(series_number):
                     episode_num = str(episode['episode']).zfill(2)
                     episode_name = episode['title']
                     # Check if the episode already exists
-                    folder_path = os.path.join(folder + series_num_padded + '-' + series['title'] + "\\")
+                    folder_path = os.path.join(folder, f"{series_num_padded}-{series['title']}")
                     pattern = os.path.join(folder_path, f"S{series_num_padded}E{episode_num}*")
                     existing_files = glob.glob(pattern)
                     if existing_files:
